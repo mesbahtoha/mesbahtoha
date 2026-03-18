@@ -4,7 +4,7 @@
 🌱 I'm currently learning **AI / Machine Learning**  
 👯 I'm looking to collaborate on **open source projects** and **open to new opportunities**
 💬 Ask me about **React, Node.js, Express & MongoDB**  
-📫 How to reach me: **[your email or LinkedIn URL]**  
+📫 How to reach me: **mesbahulalam017@gmail.com**  
 ⚡ Fun fact: I love turning complex problems into clean, simple solutions
 
 ---
