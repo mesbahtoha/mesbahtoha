@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mesbahtoha/mesbahtoha/main/1774018444185.jpeg" alt="Md. Mesbahul Alam Toha Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/mesbahtoha/mesbahtoha/main/banner.jpeg" width="100%" />
 </p>
 
-# Hi 👋, I'm Md. Mesbahul Alam Toha
+<h1 align="center">Hi 👋, I'm Md. Mesbahul Alam Toha</h1>
 
 <h3 align="center">🚀 Full Stack Developer | React, Next.js & Node.js Enthusiast</h3>
 
