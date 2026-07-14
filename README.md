@@ -44,7 +44,7 @@ I enjoy transforming complex business requirements into clean, maintainable, and
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Technology Stack
 
 ### 💻 Programming Languages
 <p align="">
@@ -106,7 +106,7 @@ A scalable backend application built with TypeScript, Express.js, PostgreSQL, an
 
 🌐 Live API: https://gearup-backend-b7a4.onrender.com
 
-⚙️ Tech Stack: TypeScript, Express.js, PostgreSQL, Prisma ORM, JWT
+⚙️ Tech Stack: TypeScript, Node.js, Express.js, PostgreSQL, Prisma ORM, JWT
 
 ---
 
