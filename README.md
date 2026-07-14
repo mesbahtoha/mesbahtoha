@@ -68,8 +68,8 @@ A modern backend application built with TypeScript, Express.js, PostgreSQL, Pris
 ### 🔹 DevPulse
 Issue Tracking & Collaboration Platform designed for software teams using Node.js, Express.js, PostgreSQL, and RESTful APIs.
 
-### 🔹 Plant Care Tracker
-A full-stack MERN application that helps users manage plant care schedules, reminders, and health tracking.
+### 🔹 CareerConnect
+A full-stack job portal platform that connects job seekers and employers. Features job posting, application management, user authentication, role-based access control, and responsive user experience using the MERN stack.
 
 ---
 
