@@ -47,52 +47,52 @@ I enjoy transforming complex business requirements into clean, maintainable, and
 ## 🛠️ Skills
 
 ### 💻 Programming Languages
-<p align="center">
+<p align="">
   <img src="https://skillicons.dev/icons?i=c,java,python,html,css,js,ts" />
 </p>
 
 ### 🎨 CSS Frameworks & Libraries
-<p align="center">
+<p align="">
   <img src="https://skillicons.dev/icons?i=tailwind" />
 </p>
 
 ### ⚛️ Frontend Frameworks & Libraries
-<p align="center">
+<p align="">
   <img src="https://skillicons.dev/icons?i=react,nextjs" />
 </p>
 
 ### ⚙️ Backend Technologies
-<p align="center">
+<p align="">
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ### 🗄️ Database & ORM
-<p align="center">
+<p align="">
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma" />
 </p>
 
 ### 🔥 Backend Services
-<p align="center">
+<p align="">
   <img src="https://skillicons.dev/icons?i=firebase" />
 </p>
 
 ### ☁️ Deployment Platforms
-<p align="center">
+<p align="">
   <img src="https://skillicons.dev/icons?i=vercel,netlify,render,railway" />
 </p>
 
 ### 🎨 Design & Graphics
-<p align="center">
+<p align="">
   <img src="https://skillicons.dev/icons?i=figma" />
 </p>
 
 ### 🖥️ Operating Systems
-<p align="center">
+<p align="">
   <img src="https://skillicons.dev/icons?i=linux,ubuntu" />
 </p>
 
 ### 🛠️ Tools & Technologies
-<p align="center">
+<p align="">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
 </p>
 
