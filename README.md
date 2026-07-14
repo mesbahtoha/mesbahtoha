@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://drive.google.com/file/d/1tzlzzBoK9uWRbVGqCx0zoCJtpP739uwu/view?usp=sharing" alt="Md. Mesbahul Alam Toha Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/mesbahtoha/mesbahtoha/main/1774018444185.jpeg" alt="Md. Mesbahul Alam Toha Banner" width="100%" />
 </p>
 
 # Hi 👋, I'm Md. Mesbahul Alam Toha
