@@ -84,14 +84,6 @@ A full-stack job portal platform that connects job seekers and employers. Featur
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mesbahtoha&show_icons=true&theme=radical&cache_seconds=86400" />
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
