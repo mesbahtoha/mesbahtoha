@@ -100,35 +100,27 @@ I enjoy transforming complex business requirements into clean, maintainable, and
 
 ## 🚀 Featured Projects
 
-### 🔹 GearUp
+### 🔹 GearUp — Sports & Outdoor Gear Rental Platform
+A full-stack rental platform where customers rent equipment, providers manage inventory, and admins oversee operations through role-based dashboards. Built with Next.js 15 (App Router), TypeScript, and Prisma ORM on PostgreSQL for a fully type-safe stack from database to UI.
+- 🌐 **Live Site:** https://gear-up-frontend-b7-a5.vercel.app
+- ⚙️ **Live API:** https://gearup-backend-b7a4.onrender.com
+- 📦 **Client Repo:** https://github.com/mesbahtoha/GearUp-Frontend-B7A5
+- 📦 **Server Repo:** https://github.com/mesbahtoha/GearUp-Backend-B7A4
+- 🛠️ **Tech Stack:** Next.js 15, React 19, TypeScript, Tailwind CSS, TanStack Query, Zustand, Recharts, Node.js, Express.js, Prisma ORM, PostgreSQL, JWT, Google OAuth 2.0, Stripe
 
-A scalable backend application built with TypeScript, Express.js, PostgreSQL, and Prisma ORM featuring secure authentication, role-based access control, booking management, and RESTful API architecture.
+### 🔹 NoticeFlow AI — Departmental AI Chatbot
+An AI-powered assistant that answers questions from uploaded university notices (exam routines, results, fees, admission circulars, scholarships) with cited sources and token-by-token streaming. Supports English, Bangla, and Banglish, with a full admin panel for managing notices, users, and AI settings.
+- 🌐 **Live Demo:** https://departmental-ai-chatbot-dkpf.vercel.app
+- ⚙️ **Backend API:** https://departmental-ai-chatbot-tzpe.vercel.app
+- 📦 **Repository:** https://github.com/mesbahtoha/Departmental-Ai-Chatbot
+- 🛠️ **Tech Stack:** React 18, Vite, TypeScript, Zustand, Node.js, Express.js, MongoDB, OpenRouter (LLM/RAG), JWT, Zod
 
-🌐 Live API: https://gearup-backend-b7a4.onrender.com
-
-⚙️ Tech Stack: TypeScript, Node.js, Express.js, PostgreSQL, Prisma ORM, JWT
-
----
-
-### 🔹 DevPulse
-
-An issue tracking and collaboration platform designed for software teams to manage bugs, feature requests, and project collaboration efficiently.
-
-🌐 Live Demo: https://dev-pulse-tau-teal.vercel.app/
-
-⚙️ Tech Stack: TypeScript, Node.js, Express.js, PostgreSQL
-
----
-
-### 🔹 Doctor Appointment Website
-
-A modern and responsive medical appointment booking web application built with React and Vite. The platform allows patients to discover doctors, explore specialties, and book appointments through a clean and intuitive user experience.
-
-🌐 Live Demo: https://thriving-centaur-0328cb.netlify.app
-
-📦 Repository: https://github.com/mesbahtoha/Medical-Appointment-Web-Frontend-
-
-⚙️ Tech Stack: React 19, Vite, JavaScript, Tailwind CSS
+### 🔹 ZapShift — Parcel Delivery Application
+A production-ready logistics platform connecting Users, Riders, and Admins through role-based dashboards, live parcel tracking, dynamic bar/line/donut analytics, and a Leaflet-powered coverage map spanning 64 district service centers.
+- 🌐 **Live Site:** https://percel-web-application-hlmu.vercel.app/
+- ⚙️ **Backend API:** https://percel-web-application.vercel.app/
+- 📦 **Repository:** https://github.com/mesbahtoha/Percel-Web-Application
+- 🛠️ **Tech Stack:** React 19, Vite, Tailwind CSS, DaisyUI, TanStack Query, Firebase Auth, React Leaflet, Node.js, Express.js, MongoDB, Stripe
 
 ---
 
