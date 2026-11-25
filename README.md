@@ -56,7 +56,7 @@ An AI-powered educational platform designed to provide textbook-grounded learnin
 
 **Tech Stack:** React, TypeScript, Node.js, Express.js, MongoDB, LLM Integration, RAG, JWT, Zod
 
-- 🌐 **Live Site:** [ZapShift](https://departmental-ai-chatbot-dkpf.vercel.app/)
+- 🌐 **Live Site:** [Shikhi-Bondhu](https://departmental-ai-chatbot-dkpf.vercel.app/)
 - 📦 **GitHub Repository:** [Shikhi Bondhu AI Tutor](https://github.com/mesbahtoha/Shikhi-Bondhu-AI-Tutor)
 
 ---
