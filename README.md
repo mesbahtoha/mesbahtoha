@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Md. Mesbahul Alam Toha
-
-<h3 align="center">Full Stack Developer | AI & RAG Applications</h3>
-
-<p align="center">
+ <p align="center">
   <img src="https://raw.githubusercontent.com/mesbahtoha/mesbahtoha/main/1774018444185.jpeg" width="100%" alt="Md. Mesbahul Alam Toha"/>
 </p>
+
+<h1 align="center">Hi 👋, I'm Md. Mesbahul Alam Toha</h1>
+
+<h3 align="center">Full Stack Developer | AI & RAG Applications</h3>
 
 <p align="center">
   Building scalable web applications and practical AI-powered solutions.
@@ -55,7 +55,7 @@ An AI-powered educational platform designed to provide textbook-grounded learnin
 
 **Tech Stack:** React, TypeScript, Node.js, Express.js, MongoDB, LLM Integration, RAG, JWT, Zod
 
-- 🌐 **Live Site:** [Shikhi Bondhu](https://departmental-ai-chatbot-dkpf.vercel.app/)
+- 🌐 **Live Site:** [Shikhi-Bondhu](https://departmental-ai-chatbot-dkpf.vercel.app/)
 - 📦 **GitHub Repository:** [Shikhi Bondhu AI Tutor](https://github.com/mesbahtoha/Shikhi-Bondhu-AI-Tutor)
 
 ---
@@ -108,10 +108,9 @@ A full-stack rental marketplace where customers can rent sports and outdoor equi
 ## 💼 Professional Experience
 
 ### Full Stack Developer — Shahi Mokam
-
 *Contractual | 3 Months*
 
-**Website:** [shahimokam.com](https://shahimokam.com/?module=8)
+🌐 **Website:** [Shahi Mokam](https://shahimokam.com/?module=8)
 
 - Developed product filtering functionality to improve product discovery.
 - Implemented seller onboarding with Business TIN form integration.
@@ -119,19 +118,17 @@ A full-stack rental marketplace where customers can rent sports and outdoor equi
 - Added map-based location selection functionality.
 
 ### Web Developer — Fahim Pharmaceutical
-
 *Contractual | 2 Months*
 
-**Website:** [fahimpharmacytmss.xyz](https://www.fahimpharmacytmss.xyz/)
+🌐 **Website:** [Fahim Pharmaceutical](https://www.fahimpharmacytmss.xyz/)
 
 - Developed a Bengali-language, SEO-friendly website for a local pharmaceutical business.
 - Built an online presence with a focus on accessibility and local discoverability.
 
 ### Frontend Developer — Bytespace
-
 *Contractual | 1 Month*
 
-**Website:** [Bytespace](https://bytespace-eta-seven.vercel.app/)
+🌐 **Website:** [Bytespace](https://bytespace-eta-seven.vercel.app/)
 
 - Developed a responsive course marketplace interface.
 - Implemented 18 course categories, search, filtering, and cart-to-checkout functionality.
@@ -141,13 +138,11 @@ A full-stack rental marketplace where customers can rent sports and outdoor equi
 ## 🛠️ Technical Skills
 
 ### Programming Languages
-
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,python" alt="JavaScript, TypeScript, Python"/>
 </p>
 
 ### Frontend Development
-
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" alt="Frontend technologies"/>
 </p>
@@ -155,7 +150,6 @@ A full-stack rental marketplace where customers can rent sports and outdoor equi
 **Libraries & Tools:** TanStack Query, Zustand, React Hook Form, shadcn/ui, Recharts
 
 ### Backend Development
-
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend technologies"/>
 </p>
@@ -163,7 +157,6 @@ A full-stack rental marketplace where customers can rent sports and outdoor equi
 **Technologies:** REST API Design, JWT Authentication, bcrypt.js, Zod, Firebase Authentication, Stripe SDK
 
 ### Database & ORM
-
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,prisma" alt="Database technologies"/>
 </p>
@@ -171,7 +164,6 @@ A full-stack rental marketplace where customers can rent sports and outdoor equi
 **Technologies:** MongoDB, Mongoose, PostgreSQL, MySQL, Prisma ORM, SQL
 
 ### Artificial Intelligence & Machine Learning
-
 <p>
   <img src="https://skillicons.dev/icons?i=python,pytorch" alt="AI and ML technologies"/>
 </p>
@@ -179,7 +171,6 @@ A full-stack rental marketplace where customers can rent sports and outdoor equi
 **Technologies:** Retrieval-Augmented Generation (RAG), LLM Integration, PyTorch, NumPy, pandas, Matplotlib, Google Colab
 
 ### DevOps, Deployment & Tools
-
 <p>
   <img src="https://skillicons.dev/icons?i=docker,linux,ubuntu,git,github,postman,vscode,vercel,netlify,figma" alt="Development tools"/>
 </p>
