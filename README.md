@@ -39,7 +39,7 @@ I'm particularly interested in combining **Full Stack Engineering with Artificia
 
 ## 🚀 Featured Projects
 
-### 1. Shikhi Bondhu — AI-Powered Learning Platform
+### 1. Shikhi Bondhu — AI Tutor
 
 **AI Tutor | RAG | LLM Integration | Educational Technology**
 
