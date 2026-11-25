@@ -233,7 +233,7 @@ Daffodil International University, Dhaka
 
 ---
 
-## 💼 Open to Opportunities
+## 💼 Open to Contribute
 
 I'm open to opportunities where I can contribute to building meaningful software products and continue growing as an engineer.
 
